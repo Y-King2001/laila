@@ -1,0 +1,50 @@
+html {
+    background-color: antiquewhite;
+}
+
+.First-box {
+    margin-top: 50px;
+    background-color: #00B4F0;
+    padding: 20px;
+    height: 400px;
+}
+
+h1,h2,p {
+    text-align: center;
+    font-size: 3em;
+}
+
+h2 {
+    font-family: Playwrite CA;
+}
+
+.grid-container {
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.picture {
+    height: 600px;
+    text-align: center;
+}
+
+.words {
+    height: 1000px;
+    width: 800px;
+    text-align: center;
+}
+
+img {
+    height: 900px;
+    width: 7r00px;
+}
+
+.grid-container h2 {
+    color: black;
+}
+
+.grid-container p {
+    font-family: Playwrite CA;
+    padding-top: 30px;
+}

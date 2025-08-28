@@ -37,7 +37,7 @@ h2 {
 
 img {
     height: 900px;
-    width: 7r00px;
+    width: 700px;
 }
 
 .grid-container h2 {
@@ -47,4 +47,5 @@ img {
 .grid-container p {
     font-family: Playwrite CA;
     padding-top: 30px;
+
 }
